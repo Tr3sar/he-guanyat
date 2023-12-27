@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuántos países hay en el mundo?",
+        "resposta": "195"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué porcentaje de la Tierra está cubierto por agua?",
+        "resposta": "71%"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "resposta": "206"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿En qué año se fundó la compañía Apple?",
+        "resposta": "1976"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el porcentaje aproximado de oxígeno en la atmósfera terrestre?",
+        "resposta": "21%"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cuántos minutos tiene un día?",
+        "resposta": "1440"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuántos grados hay en un círculo?",
+        "resposta": "360"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Cuántos días tiene un año bisiesto?",
+        "resposta": "366"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es el punto de ebullición del agua en grados Celsius?",
+        "resposta": "100"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuántos elementos tiene la tabla periódica?",
+        "resposta": "118"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué porcentaje de la superficie terrestre es desierto?",
+        "resposta": "33%"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuántos años tiene un siglo?",
+        "resposta": "100"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es la velocidad de la luz en kilómetros por segundo?",
+        "resposta": "300000"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuántas lunas tiene Júpiter?",
+        "resposta": "79"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuántos kilómetros tiene un maratón?",
+        "resposta": "42.195"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuántas notas musicales hay en una octava?",
+        "resposta": "12"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuántos jugadores hay en un equipo de fútbol (sin contar los suplentes)?",
+        "resposta": "11"
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuántos segundos hay en una hora?",
+        "resposta": "3600"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué porcentaje del cuerpo humano es agua?",
+        "resposta": "60%"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuántos dientes tiene un adulto humano, incluyendo las muelas del juicio?",
+        "resposta": "32"
+    },
+    {
+        "id": 21,
+        "pregunta": "¿A qué temperatura en grados Celsius se congela el agua?",
+        "resposta": "0"
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuántos kilómetros mide la Gran Muralla China aproximadamente?",
+        "resposta": "21196"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Cuántos estados tiene Estados Unidos?",
+        "resposta": "50"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué porcentaje de la atmósfera terrestre es dióxido de carbono?",
+        "resposta": "0.04%"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cuántos kilómetros de largo es el río Amazonas aproximadamente?",
+        "resposta": "6992"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Cuántos años duró la Guerra de los Cien Años?",
+        "resposta": "116"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué número representa el 'M' en los números romanos?",
+        "resposta": "1000"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Cuántos huesos tiene un tiburón?",
+        "resposta": "0"
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuál es el número atómico del oro?",
+        "resposta": "79"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuántos poemas escribió Pablo Neruda aproximadamente?",
+        "resposta": "3500"
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Cuántos satélites naturales tiene Marte?",
+        "resposta": "2"
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Cuántas piezas de ajedrez hay en total al inicio de una partida?",
+        "resposta": "32"
+    },
+    {
+        "id": 33,
+        "pregunta": "¿Cuántos escalones tiene la Torre Eiffel?",
+        "resposta": "1665"
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Cuántos años luz de distancia está la galaxia Andrómeda de la Vía Láctea?",
+        "resposta": "2500000"
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Cuántos músculos se utilizan aproximadamente al dar un paso?",
+        "resposta": "200"
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Cuál es la duración media de un día en Venus, en horas terrestres?",
+        "resposta": "5832"
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cuántos sonetos escribió William Shakespeare?",
+        "resposta": "154"
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Cuántos kilómetros cuadrados tiene la superficie de Marte?",
+        "resposta": "144798500"
+    },
+    {
+        "id": 39,
+        "pregunta": "¿Cuál es el punto de fusión del diamante en grados Celsius?",
+        "resposta": "3550"
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Cuántos idiomas oficiales tiene Suiza?",
+        "resposta": "4"
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Cuántos planetas enanos hay actualmente reconocidos en nuestro sistema solar?",
+        "resposta": "5"
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Cuántos metros cuadrados de selva amazónica se deforestan cada minuto?",
+        "resposta": "20000"
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Cuál es la profundidad del punto más profundo del océano, la Fosa de las Marianas, en metros?",
+        "resposta": "10994"
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Cuántas sinfonías compuso Ludwig van Beethoven?",
+        "resposta": "9"
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Cuántos kilómetros cuadrados tiene el desierto del Sahara?",
+        "resposta": "9100000"
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Cuál es la distancia media entre la Tierra y el Sol, conocida como una Unidad Astronómica, en kilómetros?",
+        "resposta": "149597870.7"
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Cuántas obras teatrales escribió William Shakespeare?",
+        "resposta": "37"
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Cuántas cámaras cardíacas tiene un reptil, como el cocodrilo?",
+        "resposta": "4"
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Cuántos kilómetros mide el túnel del Canal de la Mancha?",
+        "resposta": "50.45"
+    },
+    {
+        "id": 50,
+        "pregunta": "¿Cuál es la edad estimada del universo en millones de años?",
+        "resposta": "13800"
+    },
+    {
+        "id": 51,
+        "pregunta": "¿Cuántos peldaños tiene la escalera de la Estatua de la Libertad?",
+        "resposta": "354"
+    },
+    {
+        "id": 52,
+        "pregunta": "¿Cuál es el número primo más grande conocido hasta ahora?",
+        "resposta": "282589933"
+    },
+    {
+        "id": 53,
+        "pregunta": "¿Cuántos kilómetros de longitud tiene el río Nilo?",
+        "resposta": "6650"
+    },
+    {
+        "id": 54,
+        "pregunta": "¿Cuántos músculos se utilizan para sonreír?",
+        "resposta": "17"
+    },
+    {
+        "id": 55,
+        "pregunta": "¿Cuántos pares de costillas tiene un ser humano típicamente?",
+        "resposta": "12"
+    },
+    {
+        "id": 56,
+        "pregunta": "¿Cuál es la velocidad máxima registrada de un halcón peregrino en picada, en kilómetros por hora?",
+        "resposta": "389"
+    },
+    {
+        "id": 57,
+        "pregunta": "¿Cuántos gramos de oro puro hay en una onza troy?",
+        "resposta": "31.1"
+    },
+    {
+        "id": 58,
+        "pregunta": "¿Cuántos años tarda Plutón en completar una órbita alrededor del Sol?",
+        "resposta": "248"
+    },
+    {
+        "id": 59,
+        "pregunta": "¿Cuál es la presión atmosférica estándar al nivel del mar en milibares?",
+        "resposta": "1013.25"
+    },
+    {
+        "id": 60,
+        "pregunta": "¿Cuántos átomos de hidrógeno hay en una molécula de agua?",
+        "resposta": "2"
+    },
+    {
+        "id": 61,
+        "pregunta": "¿Cuántos versos tiene un soneto?",
+        "resposta": "14"
+    },
+    {
+        "id": 62,
+        "pregunta": "¿Cuántas teclas tiene un piano estándar?",
+        "resposta": "88"
+    },
+    {
+        "id": 63,
+        "pregunta": "¿Cuántos huesos tiene un tiburón?",
+        "resposta": "0"
+    },
+    {
+        "id": 64,
+        "pregunta": "¿Cuántos satélites naturales tiene Saturno?",
+        "resposta": "82"
+    },
+    {
+        "id": 65,
+        "pregunta": "¿Cuántos corazones tiene un pulpo?",
+        "resposta": "3"
+    },
+    {
+        "id": 66,
+        "pregunta": "¿Cuál es el número más alto en una ruleta europea?",
+        "resposta": "36"
+    },
+    {
+        "id": 67,
+        "pregunta": "¿Cuál es la longitud total de los vasos sanguíneos en el cuerpo humano, en kilómetros?",
+        "resposta": "100000"
+    },
+    {
+        "id": 68,
+        "pregunta": "¿Cuántos lóbulos tiene el cerebro humano?",
+        "resposta": "4"
+    },
+    {
+        "id": 69,
+        "pregunta": "¿Cuántos puntos vale la letra 'Z' en Scrabble en inglés?",
+        "resposta": "10"
+    },
+    {
+        "id": 70,
+        "pregunta": "¿Cuántas células aproximadamente tiene el cuerpo humano?",
+        "resposta": "37000000000000"
+    },
+    {
+        "id": 71,
+        "pregunta": "¿Cuántos años tiene la estrella más antigua conocida?",
+        "resposta": "14200000000"
+    },
+    {
+        "id": 72,
+        "pregunta": "¿Cuántos músculos se necesitan para dar un paso?",
+        "resposta": "200"
+    },
+    {
+        "id": 73,
+        "pregunta": "¿Cuántos ojos tiene una abeja?",
+        "resposta": "5"
+    },
+    {
+        "id": 74,
+        "pregunta": "¿Cuál es la distancia en kilómetros desde la Tierra a Marte, en promedio?",
+        "resposta": "225000000"
+    },
+    {
+        "id": 75,
+        "pregunta": "¿Cuántos puentes tiene la ciudad de Venecia?",
+        "resposta": "400"
+    },
+    {
+        "id": 76,
+        "pregunta": "¿Cuántos años luz de ancho es la Vía Láctea?",
+        "resposta": "105700"
+    },
+    {
+        "id": 77,
+        "pregunta": "¿Cuál es la profundidad promedio de los océanos en metros?",
+        "resposta": "3688"
+    },
+    {
+        "id": 78,
+        "pregunta": "¿Cuántos kilogramos pesaba aproximadamente el Tyrannosaurus rex?",
+        "resposta": "9000"
+    },
+    {
+        "id": 79,
+        "pregunta": "¿Cuántos peldaños tiene la Torre de Pisa?",
+        "resposta": "294"
+    },
+    {
+        "id": 80,
+        "pregunta": "¿Cuántos dientes tiene un tiburón blanco en su vida?",
+        "resposta": "3000"
+    },
+    {
+        "id": 81,
+        "pregunta": "¿Cuántos países atraviesa el ecuador?",
+        "resposta": "13"
+    },
+    {
+        "id": 82,
+        "pregunta": "¿Cuántos años luz de distancia está la galaxia más cercana a la Vía Láctea?",
+        "resposta": "25000"
+    },
+    {
+        "id": 83,
+        "pregunta": "¿Cuántos metros mide el edificio Burj Khalifa?",
+        "resposta": "828"
+    },
+    {
+        "id": 84,
+        "pregunta": "¿Cuántos años tenía Mozart cuando compuso su primera sinfonía?",
+        "resposta": "8"
+    },
+    {
+        "id": 85,
+        "pregunta": "¿Cuántos escalones hay en la Gran Muralla China?",
+        "resposta": "17000"
+    },
+    {
+        "id": 86,
+        "pregunta": "¿Cuántos kilómetros de longitud tiene el Gran Cañón del Colorado?",
+        "resposta": "446"
+    },
+    {
+        "id": 87,
+        "pregunta": "¿Cuántos músculos se utilizan para mantener el equilibrio mientras se está de pie?",
+        "resposta": "300"
+    },
+    {
+        "id": 88,
+        "pregunta": "¿Cuántos países tienen frontera con China?",
+        "resposta": "14"
+    },
+    {
+        "id": 89,
+        "pregunta": "¿Cuántos litros de sangre bombea el corazón humano cada día?",
+        "resposta": "7000"
+    },
+    {
+        "id": 90,
+        "pregunta": "¿Cuántos planetas del sistema solar tienen anillos?",
+        "resposta": "4"
+    },
+    {
+        "id": 91,
+        "pregunta": "¿Cuántos kilómetros mide el Túnel del Gotardo, el túnel ferroviario más largo del mundo?",
+        "resposta": "57.104"
+    },
+    {
+        "id": 92,
+        "pregunta": "¿Cuántos músculos tiene la lengua humana?",
+        "resposta": "8"
+    },
+    {
+        "id": 93,
+        "pregunta": "¿Cuál es la altura del Monte Everest en metros?",
+        "resposta": "8848.86"
+    },
+    {
+        "id": 94,
+        "pregunta": "¿Cuántas vértebras cervicales tiene una jirafa?",
+        "resposta": "7"
+    },
+    {
+        "id": 95,
+        "pregunta": "¿Cuántas células nerviosas (neuronas) hay aproximadamente en el cerebro humano?",
+        "resposta": "86000000000"
+    },
+    {
+        "id": 96,
+        "pregunta": "¿Cuántos años tarda la luz del Sol en llegar a la Tierra?",
+        "resposta": "0.00001581"
+    },
+    {
+        "id": 97,
+        "pregunta": "¿Cuál es el porcentaje de nitrógeno en la atmósfera terrestre?",
+        "resposta": "78%"
+    },
+    {
+        "id": 98,
+        "pregunta": "¿Cuántos pétalos tiene típicamente una flor de rosa?",
+        "resposta": "5"
+    },
+    {
+        "id": 99,
+        "pregunta": "¿Cuántos kilómetros de longitud tiene el río Yangtsé, el río más largo de Asia?",
+        "resposta": "6300"
+    },
+    {
+        "id": 100,
+        "pregunta": "¿Cuántas especies de plantas se estima que existen en el mundo?",
+        "resposta": "391000"
+    }
+]

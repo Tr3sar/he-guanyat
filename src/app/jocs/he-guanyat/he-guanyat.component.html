@@ -1,0 +1,19 @@
+<main>
+    <h1>He Guanyat?</h1>
+
+    <ol>
+        <li *ngFor="let pregunta of getCurrentItems()">
+            <div class="pregunta">
+                {{pregunta.pregunta}}
+            </div>
+            <div class="resposta" *ngIf="solucionsVisibles">
+                {{pregunta.resposta}}
+            </div>
+        </li>
+    </ol>
+
+    <div class="buttons-container">
+        <button (click)="mostrarSolucions()" [disabled]="solucionsVisibles">Mostrar sol·lucions</button>
+        <button (click)="loadNextItems()" [disabled]="!solucionsVisibles">Següents</button>
+    </div>
+</main>

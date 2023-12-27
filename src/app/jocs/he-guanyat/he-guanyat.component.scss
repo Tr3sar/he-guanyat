@@ -1,0 +1,58 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  
+    h1 {
+      margin-bottom: 20px;
+    }
+  
+    ol {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+  
+      li {
+        display: table-row;
+        width: 100%;
+        border: 1px solid #ccc;
+        margin: 5px 0;
+  
+        .pregunta,
+        .resposta {
+          display: table-cell;
+          padding: 10px;
+          border: 1px solid #ccc;
+        }
+  
+        .pregunta {
+          width: 50%;
+          background-color: var(--bg-300);
+          border: transparent;
+          color:var(--text-100);
+        }
+  
+        .resposta {
+          width: 50%;
+          background-color: var(--bg-200);
+          border: transparent;
+          color:var(--text-100);
+        }
+      }
+    }
+  
+    .buttons-container{
+      margin-top: 1rem;
+      button {
+        margin: 1rem;
+        background-color: var(--primary-300);
+        border: transparent;
+        padding: 0.5rem;
+        cursor: pointer;
+        font-weight: bold;
+      }
+    }
+  }
+  
