@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeGuanyatComponent } from './he-guanyat/he-guanyat.component';
+import { JocsRoutingModule } from './jocs-routing.module';
 
 
 
@@ -9,7 +10,8 @@ import { HeGuanyatComponent } from './he-guanyat/he-guanyat.component';
     HeGuanyatComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    JocsRoutingModule
   ]
 })
 export class JocsModule { }

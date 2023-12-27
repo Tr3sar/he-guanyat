@@ -6,6 +6,7 @@ main {
   
     h1 {
       margin-bottom: 20px;
+      color: var(--text-100);
     }
   
     ol {
@@ -13,31 +14,31 @@ main {
       padding: 0;
       margin: 0;
       width: 100%;
+      text-align: -webkit-center;
   
       li {
         display: table-row;
         width: 100%;
-        border: 1px solid #ccc;
+        border: 1px solid var(--text-100);
         margin: 5px 0;
   
         .pregunta,
         .resposta {
           display: table-cell;
           padding: 10px;
-          border: 1px solid #ccc;
+          border: 1px solid var(--text-100);
+          vertical-align: middle;
         }
   
         .pregunta {
           width: 50%;
           background-color: var(--bg-300);
-          border: transparent;
           color:var(--text-100);
         }
   
         .resposta {
           width: 50%;
           background-color: var(--bg-200);
-          border: transparent;
           color:var(--text-100);
         }
       }

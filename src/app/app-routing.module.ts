@@ -4,10 +4,7 @@ import { HeGuanyatComponent } from './jocs/he-guanyat/he-guanyat.component';
 
 const routes: Routes = [
   {path:'', redirectTo: 'jocs/he-guanyat', pathMatch:'full'},
-    {path: 'jocs', children: 
-    [
-        {path: 'he-guanyat', component: HeGuanyatComponent}
-    ]}
+  {path: 'jocs', loadChildren: () => import('./jocs/jocs.module').then(m => m.JocsModule)}
 ];
 
 @NgModule({
